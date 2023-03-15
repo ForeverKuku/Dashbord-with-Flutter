@@ -1,2 +1,2 @@
-# Dashbord-with-Flutter
-Flutter Sample Dashboard
+# Flutter Dashboard
+Flutter Sample Dashboard for beginners 
